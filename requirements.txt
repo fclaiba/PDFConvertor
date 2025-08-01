@@ -1,0 +1,20 @@
+# Dependencias principales
+python-docx==0.8.11
+reportlab==4.0.4
+Pillow==10.0.1
+click==8.1.7
+PyYAML==6.0.1
+colorama==0.4.6
+tqdm==4.66.1
+
+# Dependencias de desarrollo
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
+mypy==1.5.1
+
+# Dependencias adicionales para conversión
+docx2txt==0.8
+markdown==3.5.1
+python-magic==0.4.27 
